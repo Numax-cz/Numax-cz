@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          markdown: https://raw.githubusercontent.com/Numax-cz/Numax-cz/main/.github/template.md
           token: ${{ secrets.METRICS_TOKEN }}
-
           user: Numax-cz
           template: classic
           base: header, activity, community, repositories, metadata
