@@ -12,6 +12,9 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           markdown: https://raw.githubusercontent.com/Numax-cz/Numax-cz/main/.github/template.md
+          config_output: markdown
+          template: markdown
+          filename: README.md
           token: ${{ secrets.METRICS_TOKEN }}
           user: Numax-cz
           template: classic
