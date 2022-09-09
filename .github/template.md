@@ -6,7 +6,7 @@
     Jsem mladý český moravák, který rád programuje OpenSource projekty s ❤!
 </p>
 
-<h3 align="left">V čem všem mám zkušenosti? </h3>
+<h3 align="left">V čem mám zkušenosti?</h3>
 <p align="left"> 
 <!-- Angular -->
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
