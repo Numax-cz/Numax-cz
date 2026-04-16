@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@7e4bab7d85c7d114cc928299765f830c107270a4
         with:
           markdown: https://raw.githubusercontent.com/Numax-cz/Numax-cz/main/.github/template.md
           config_output: markdown
